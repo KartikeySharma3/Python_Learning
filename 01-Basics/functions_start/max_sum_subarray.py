@@ -24,7 +24,7 @@ def max_sum_subarray(nums: list[int], k: int) -> int:
 
     return max_sum
 
-if __name__ == "__main__":
+if __name__ == "main":
     test_arr = [1, 7, 2, 8, 4, 3]
     k_val = 3
     result = max_sum_subarray(test_arr, k_val)
