@@ -16,3 +16,5 @@ target = 9
 result = two_sum(nums, target)
 
 print(f"the two sums of the given list:{result}")
+
+
